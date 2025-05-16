@@ -30,6 +30,10 @@ article h3 {
   font-weight: bold;
 }
 
+section h3{
+  color: #3181f8;
+}
+
 /* ==== Párrafos ==== */
 article p {
   color: #292121;
